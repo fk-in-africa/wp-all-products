@@ -1,67 +1,66 @@
-#program-list *{
+.program-list {
 	box-sizing: border-box;
     font-family: Lato, Yu Gothic Medium, 游ゴシック Medium, YuGothic, 游ゴシック体, ヒラギノ角ゴ Pro W3, メイリオ, sans-serif, ;
 }
 
 
-#program-list .container{
+.container{
    width: 100%;
 }
 
-#program-list .post-wrap{
+.post-wrap{
   padding-right: 0;
 }
 
-#program-list .col-md-9{
+.col-md-9{
   width: 100%;
   padding-right: 0;
   padding-left: 0;
 }
 
-#program-list .title-post{
+.title-post{
   display: none;
 }
 
-#program-list .page-title{
+.page-title{
 	text-align: center;
 	color: #037Ef3;
     padding-top: 0;
 }
 
-#program-list .page-subtitle{
+.page-subtitle{
 	text-align: center;
 	font-size: 16px;
 	font-weight: bold;
 }
 
-#program-list body{
+.body{
 	max-width: 100%;
 	width: 100%;
 	display: inline-block;
 }
 
-#program-list section{
+.section{
 	max-width: 100%;
 	width: 100%;
 	padding: 15px 15px;
 	margin: 40px auto;
 }
 
-#program-list .region .section-title{
+.region .section-title{
 	color: #037Ef3;
 	font-size: 24px;
 }
 
-#program-list .program .program-title {
+.program .program-title {
   text-align: center;
   margin-bottom: 10px;
 }
-
-#program-list .program a:hover{
+.program a:hover{
   color: #004BC0;
 }
 
-#program-list .program a {
+.program a {
   color: #037Ef3;
   font-size: 20px;
   font-weight: bold;
@@ -71,7 +70,7 @@
   text-align: center;
 }
 
-#program-list .btn {
+.btn {
   text-align: center;
   font-weight: bold;
   color: #fff;
@@ -80,21 +79,21 @@
   background-color: #037Ef3;
 }
 
-#program-list .btn:hover {
+.btn:hover {
     background-color: #004BC0;
 }
 
-#program-list .global{
+.global{
   background-color: #fff;
   color: #037Ef3;
 }
 
-#program-list .global:hover {
+.global:hover {
   background-color: #037Ef3;
   color: #fff;
 }
 
-#program-list .attention {
+.attention {
   text-align: center;
   color: #037Ef3;
   font-size: 24px;
@@ -102,11 +101,11 @@
   margin-bottom: 30px;
 }
 
-#program-list .region {
+.region {
   width: 1170px;
 }
 
-#program-list .region .program {
+.region .program {
 	width: 33%;
     padding: 0 20px;
 	display: inline-block;
@@ -115,21 +114,21 @@
     border-color: #CACCD1;
 }
 
-#program-list .region .program-text{
+.region .program-text{
 	padding-right: 0;
 }
 
-#program-list .region .program .label{
+.region .program .label{
   margin-bottom: 10px;
 }
 
-#program-list .region .program .label p{
+.region .program .label p{
     margin-bottom: 0;
     font-size: 14px;
     font-weight: bold;
 }
 
-#program-list .global-section{
+.global-section{
 	text-align: center;
      background: linear-gradient(-135deg, #30C39E, #037Ef3);
     margin-right: 0;
@@ -139,18 +138,18 @@
     width: 100vw;
 }
 
-#program-list .region .global-program{
+.region .global-program{
 	color: #FFC845;
     font-family: YuGo-Bold;
     font-size: 28px;
 }
 
-#program-list .global-section p{
+.global-section p{
 	color: #ffffff;
 	font-weight: bold;
 }
 
-#program-list .global-section .subtitle{
+.global-section .subtitle{
 	font-size: 24px;
 	padding-top: 40px;
 }
@@ -161,30 +160,30 @@
 		max-width: 100vw;
 		width: 100%;
 	}
-    #program-list section{
+.section{
 	padding: 15px 0;
   }
-    #program-list .region .program {
+.region .program {
 	  width: 100%;
       text-align: center;
       display: block;
       padding: 0 0;
     }
-    #program-list .region .program-text{
+.region .program-text{
 	  padding-right: 0;
       text-align: left;
     }
-    #program-list .region .program .label p{
+.region .program .label p{
       text-align: left;
     }
-#program-list .global-section p{
+.global-section p{
       padding-right: 5px;
       padding-left: 5px;
     }
-    #program-list .global{
+.global{
       padding: 15px; 10px;
 }
-	#programs-list .region-label{
+.region-label{
   width: 25%; 
 }
 }
