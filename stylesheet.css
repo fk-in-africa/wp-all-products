@@ -184,4 +184,7 @@
     #program-list .global{
       padding: 15px; 10px;
 }
+	#programs-list .region-label{
+  width: 25%; 
+}
 }
