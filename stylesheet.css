@@ -1,31 +1,31 @@
 .program-list {
 	box-sizing: border-box;
-    font-family: Lato, Yu Gothic Medium, 游ゴシック Medium, YuGothic, 游ゴシック体, ヒラギノ角ゴ Pro W3, メイリオ, sans-serif, ;
+	font-family: Lato, Yu Gothic Medium, 游ゴシック Medium, YuGothic, 游ゴシック体, ヒラギノ角ゴ Pro W3, メイリオ, sans-serif, ;
 }
 
 
 .container{
-   width: 100%;
+	width: 100%;
 }
 
 .post-wrap{
-  padding-right: 0;
+	padding-right: 0;
 }
 
 .col-md-9{
-  width: 100%;
-  padding-right: 0;
-  padding-left: 0;
+	width: 100%;
+	padding-right: 0;
+	padding-left: 0;
 }
 
 .title-post{
-  display: none;
+	display: none;
 }
 
 .page-title{
 	text-align: center;
 	color: #037Ef3;
-    padding-top: 0;
+	padding-top: 0;
 }
 
 .page-subtitle{
@@ -47,79 +47,79 @@
 	margin: 40px auto;
 }
 
-.region .section-title{
+.region .section-title {
 	color: #037Ef3;
 	font-size: 24px;
 }
 
 .program .program-title {
-  text-align: center;
-  margin-bottom: 10px;
+	text-align: center;
+	margin-bottom: 10px;
 }
-.program a:hover{
-  color: #004BC0;
+.program a:hover {
+	color: #004BC0;
 }
 
 .program a {
-  color: #037Ef3;
-  font-size: 20px;
-  font-weight: bold;
+	color: #037Ef3;
+	font-size: 20px;
+	font-weight: bold;
 }
 
-#program-list .btn-wrapper{
-  text-align: center;
+#program-list .btn-wrapper {
+	text-align: center;
 }
 
 .btn {
-  text-align: center;
-  font-weight: bold;
-  color: #fff;
-  border-radius: 6px;
- padding: 20px 40px;
-  background-color: #037Ef3;
+	text-align: center;
+	font-weight: bold;
+	color: #fff;
+	border-radius: 6px;
+	padding: 20px 40px;
+	background-color: #037Ef3;
 }
 
 .btn:hover {
-    background-color: #004BC0;
+	background-color: #004BC0;
 }
 
 .global{
-  background-color: #fff;
-  color: #037Ef3;
+	background-color: #fff;
+	color: #037Ef3;
 }
 
 .global:hover {
-  background-color: #037Ef3;
-  color: #fff;
+	background-color: #037Ef3;
+	color: #fff;
 }
 
 .attention {
-  text-align: center;
-  color: #037Ef3;
-  font-size: 24px;
-  font-weight: bold;
-  margin-bottom: 30px;
+	text-align: center;
+	color: #037Ef3;
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 30px;
 }
 
 .region {
-  width: 1170px;
+	width: 1170px;
 }
 
 .region{
 	width: 33%;
-    padding: 0 20px;
+	padding: 0 20px;
 	display: inline-block;
 	height: 600px;
 	vertical-align: top;
-    border-color: #CACCD1;
+	border-color: #CACCD1;
 }
 .program {
 	width: 33%;
-    padding: 0 20px;
+	padding: 0 20px;
 	display: inline-block;
 	height: 600px;
 	vertical-align: top;
-    border-color: #CACCD1;
+	border-color: #CACCD1;
 }
 .region {
 	padding-right: 0;
@@ -129,50 +129,50 @@
 }
 
 .region {
-  margin-bottom: 10px;
+	margin-bottom: 10px;
 }
 .program {
-  margin-bottom: 10px;
+	margin-bottom: 10px;
 }
 .label {
-  margin-bottom: 10px;
+	margin-bottom: 10px;
 }
 
 .region p{
-    margin-bottom: 0;
-    font-size: 14px;
-    font-weight: bold;
+	margin-bottom: 0;
+	font-size: 14px;
+	font-weight: bold;
 }
 .program p{
-    margin-bottom: 0;
-    font-size: 14px;
-    font-weight: bold;
+	margin-bottom: 0;
+	font-size: 14px;
+	font-weight: bold;
 }
 .label p{
-    margin-bottom: 0;
-    font-size: 14px;
-    font-weight: bold;
+	margin-bottom: 0;
+	font-size: 14px;
+	font-weight: bold;
 }
 
 .global-section {
 	text-align: center;
-     background: linear-gradient(-135deg, #30C39E, #037Ef3);
-    margin-right: 0;
-    margin-left: 0;
-    padding-right: 0;
-    padding-left: 0;
-    width: 100vw;
+	background: linear-gradient(-135deg, #30C39E, #037Ef3);
+	margin-right: 0;
+	margin-left: 0;
+	padding-right: 0;
+	padding-left: 0;
+	width: 100vw;
 }
 
 .region {
 	color: #FFC845;
-    font-family: YuGo-Bold;
-    font-size: 28px;
+	font-family: YuGo-Bold;
+	font-size: 28px;
 }
 .global-program {
 	color: #FFC845;
-    font-family: YuGo-Bold;
-    font-size: 28px;
+	font-family: YuGo-Bold;
+	font-size: 28px;
 }
 .global-section p{
 	color: #ffffff;
@@ -197,42 +197,42 @@
 	padding: 15px 0;
   }
 .region {
-	  width: 100%;
-      text-align: center;
-      display: block;
-      padding: 0 0;
+	width: 100%;
+	text-align: center;
+	display: block;
+	padding: 0 0;
     }
 .program {
-			  width: 100%;
-		      text-align: center;
-		      display: block;
-		      padding: 0 0;
+	width: 100%;
+	text-align: center;
+	display: block;
+	padding: 0 0;
 }
 .region {
-	  padding-right: 0;
-      text-align: left;
+	padding-right: 0;
+	text-align: left;
 }
 .program-text {
-		padding-right: 0;
-		text-align: left;
+	padding-right: 0;
+	text-align: left;
 }
 .region p {
-      text-align: left;
+	text-align: left;
     }
 .program p {
-		  text-align: left;
+	text-align: left;
 }
 .label p {
-			text-align: left;
+	text-align: left;
 }
 .global-section p {
-      padding-right: 5px;
-      padding-left: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
     }
 .global {
-      padding: 15px 10px;
+	padding: 15px 10px;
 }
 .region-label {
-  width: 25%; 
+	width: 25%; 
 }
 }
