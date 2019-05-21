@@ -32,3 +32,44 @@
 .btn:hover {
         background-color: #004BC0;
 }
+.global{
+  background-color: #fff;
+  color: #037Ef3;
+}
+
+.global:hover {
+  background-color: #037Ef3;
+  color: #fff;
+}
+.region{
+	width: 33%;
+    padding: 0 20px;
+	display: inline-block;
+	height: 600px;
+	vertical-align: top;
+    border-color: #CACCD1;
+}
+.program {
+	width: 33%;
+    padding: 0 20px;
+	display: inline-block;
+	height: 600px;
+	vertical-align: top;
+    border-color: #CACCD1;
+}
+.region {
+	padding-right: 0;
+}
+.program-text {
+	padding-right: 0;
+}
+
+.region {
+  margin-bottom: 10px;
+}
+.program {
+  margin-bottom: 10px;
+}
+.label {
+  margin-bottom: 10px;
+}
