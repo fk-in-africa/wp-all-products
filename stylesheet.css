@@ -2,6 +2,8 @@
 	box-sizing: border-box;
     font-family: Lato, Yu Gothic Medium, 游ゴシック Medium, YuGothic, 游ゴシック体, ヒラギノ角ゴ Pro W3, メイリオ, sans-serif, ;
 }
-.container{
-   width: 100%;
+.page-title{
+	text-align: center;
+	color: #037Ef3;
+    padding-top: 0;
 }
