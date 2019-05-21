@@ -12,3 +12,11 @@
 	width: 100%;
 	display: inline-block;
 }
+.region .section-title{
+	color: #037Ef3;
+	font-size: 24px;
+}
+.program .program-title {
+        text-align: center;
+        margin-bottom: 10px;
+}
