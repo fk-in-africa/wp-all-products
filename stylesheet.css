@@ -33,22 +33,15 @@
         background-color: #004BC0;
 }
 .global{
-  background-color: #fff;
-  color: #037Ef3;
+                background-color: #fff;
+                color: #037Ef3;
 }
 
 .global:hover {
-  background-color: #037Ef3;
-  color: #fff;
+                background-color: #037Ef3;
+                color: #fff;
 }
-.region{
-	width: 33%;
-    padding: 0 20px;
-	display: inline-block;
-	height: 600px;
-	vertical-align: top;
-    border-color: #CACCD1;
-}
+
 .program {
 	
 }
@@ -74,6 +67,5 @@
           border-color: #CACCD1;
 }
  .program-img{
-          width: 500px;
-          height: 600px;
+          width: 50%
   }
