@@ -19,6 +19,7 @@
 .program .program-title {
         text-align: center;
         margin-bottom: 10px;
+	padding-right: 0;
 }
 .btn {
         text-align: center;
@@ -31,25 +32,6 @@
 
 .btn:hover {
         background-color: #004BC0;
-}
-.global{
-                background-color: #fff;
-                color: #037Ef3;
-}
-
-.global:hover {
-                background-color: #037Ef3;
-                color: #fff;
-}
-
-.program {
-	
-}
-.region {
-	padding-right: 0;
-}
-.program-text {
-	padding-right: 0;
 }
 
 .region {
@@ -66,7 +48,12 @@
 	  vertical-align: top;
           border-color: #CACCD1;
 }
- .program-img{
-          width: 500px;
-	  height: 500px;
-  }
+.global{
+                background-color: #fff;
+                color: #037Ef3;
+}
+
+.global:hover {
+                background-color: #037Ef3;
+                color: #fff;
+}
